@@ -1,0 +1,10 @@
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\XOrNetworkTrainer.exe.config
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\XOrNetworkTrainer.exe
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\XOrNetworkTrainer.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\obj\Debug\XOrNetworkTrainer.csprojResolveAssemblyReference.cache
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\obj\Debug\XOrNetworkTrainer.exe
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\obj\Debug\XOrNetworkTrainer.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\Example.XOrMethod.dll
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\NeuralNetFramework.dll
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\Example.XOrMethod.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\XOrNetworkTrainer\bin\Debug\NeuralNetFramework.pdb

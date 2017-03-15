@@ -1,0 +1,4 @@
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetFramework\bin\Debug\NeuralNetFramework.dll
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetFramework\bin\Debug\NeuralNetFramework.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetFramework\obj\Debug\NeuralNetFramework.dll
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetFramework\obj\Debug\NeuralNetFramework.pdb

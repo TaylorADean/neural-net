@@ -1,0 +1,7 @@
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\bin\Debug\NeuralNetCommon.dll
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\bin\Debug\NeuralNetCommon.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\bin\Debug\NeuralNetFramework.dll
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\bin\Debug\NeuralNetFramework.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\obj\Debug\NeuralNetCommon.csprojResolveAssemblyReference.cache
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\obj\Debug\NeuralNetCommon.dll
+C:\Taylor\neural-net\NeuralNetPlayground\NeuralNetCommon\obj\Debug\NeuralNetCommon.pdb

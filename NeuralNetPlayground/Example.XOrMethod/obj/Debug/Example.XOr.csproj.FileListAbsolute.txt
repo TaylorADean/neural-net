@@ -1,0 +1,9 @@
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\bin\Debug\Example.XOrMethod.dll
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\bin\Debug\Example.XOrMethod.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\bin\Debug\NeuralNetCommon.dll
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\bin\Debug\NeuralNetFramework.dll
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\bin\Debug\NeuralNetCommon.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\bin\Debug\NeuralNetFramework.pdb
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\obj\Debug\Example.XOr.csprojResolveAssemblyReference.cache
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\obj\Debug\Example.XOrMethod.dll
+C:\Taylor\neural-net\NeuralNetPlayground\Example.XOrMethod\obj\Debug\Example.XOrMethod.pdb
